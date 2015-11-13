@@ -7,5 +7,5 @@
 - Download the extension - [link](https://github.com/jossef/annoying-ynet/releases/download/1.0.0/annoying-ynet.crx)
 - Open Chrome Settings
 - Click Extensions
-- Drag & Drop the file youv'e just downloaded and that's it
+- Drag & Drop the file you've just downloaded and that's it
 
