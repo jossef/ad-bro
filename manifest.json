@@ -1,0 +1,18 @@
+{
+  "author": "Jossef Harush",
+  "content_scripts": [
+    {
+      "all_frames": true,
+      "js": ["js/content.js"],
+      "matches": ["http://www.ynet.co.il/*"],
+      "run_at": "document_end"
+    }
+  ],
+  "manifest_version": 2,
+  "name": "Annoying YNET",
+  "short_name": "Annoying YNET",
+  "description": "Annoying YNET",
+  "offline_enabled": true,
+  "permissions": ["http://www.ynet.co.il/*"],
+  "version": "1"
+}
