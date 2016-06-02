@@ -1,6 +1,6 @@
 ## Ad Bro
 
-This extension is ultra light and simply *hides the disable AdBlock message you sometimes see*
+This extension is ultra light and simply *hides the "Disable AdBlock" messages you sometimes see*
 
 
 [
